@@ -1,0 +1,36 @@
+// * {
+//   margin: 0;
+//   padding: 0;
+// }
+
+// img {
+//   width: 100%;
+// }
+
+// body {
+//   background-color: #ddd;
+//   font-size: 18px;
+//   font-family: "Oswald";
+//   margin: 50px;
+// }
+
+// .header {
+//   display: grid;
+//   grid-template:
+//     "hero hero feature-1" 1fr
+//     "hero hero feature-2" 1fr / 2fr 1fr 1fr;
+
+//   .hero {
+//     grid-area: hero;
+//     background-image: url('images/g2.jpg');
+//     background-size: cover;
+//     min-height: 350px;
+//   }
+
+//   .feature-1 {
+//     grid-area: feature-1;
+//   }
+//   .feature-2 {
+//     grid-area: feature-2;
+//   }
+// }
